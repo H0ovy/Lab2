@@ -5,6 +5,6 @@ A uni project based on [HAL](https://github.com/arduino/ArduinoCore-avr/blob/mas
 Hope i did what i was supposed to do
 
 
-And if not:
-![Cat](/pics/cat_cat.gif)
+And if not: <br>
+![Cat](/pics/cat_cat.gif) <br>
 An apologetic cat
